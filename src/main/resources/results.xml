@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resultset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <indexDate>%s</indexDate>
+    <results>
+        <result nametype="AKA">
+            <categories>
+                <category>ec_1</category>
+                <category>ec_4</category>
+            </categories>
+            <entityId>%s</entityId>
+            <modifiedDate>%s</modifiedDate>
+            <name>D Cameron</name>
+            <originalScript>D Cameron</originalScript>
+            <score>0.9083898663520813</score>
+            <sources>b_trwc_KEYWORD-1</sources>
+            <sources>b_trwc_PEP NG</sources>
+            <type>INDIVIDUAL</type>
+        </result>
+    </results>
+</resultset>
